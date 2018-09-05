@@ -21,7 +21,7 @@ t = minimum a
 u = sum a
 v = product a 
 w = 3 `elem` a 
---x
---y
---z
+x = [1..20]
+y = ['a'..'z']
+z = [3, 6..20]
 
