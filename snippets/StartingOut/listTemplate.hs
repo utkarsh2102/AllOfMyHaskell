@@ -24,4 +24,9 @@ w = 3 `elem` a
 x = [1..20]
 y = ['a'..'z']
 z = [3, 6..20]
-
+aa = [7,14..100]
+ab = take 7 [7,14..]
+ac = take 7 (cycle [12,21,29])
+ad = take 7 (repeat ['u','t'])
+ae = replicate 7 [12,21,29]
+af = [0,0.25..2]
